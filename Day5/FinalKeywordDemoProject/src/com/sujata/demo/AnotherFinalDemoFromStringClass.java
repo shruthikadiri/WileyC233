@@ -11,7 +11,7 @@ public class AnotherFinalDemoFromStringClass {
 	
 	public static void main(String args[]) {
 		
-		String name="Sujata";
+		String name="shruthi";
 		System.out.println(name.length());
 	}
 
