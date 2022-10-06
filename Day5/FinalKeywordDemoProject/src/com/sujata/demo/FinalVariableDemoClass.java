@@ -14,7 +14,7 @@ class Demo{
 		System.out.println("Hi I am change method from Demo Class");
 	}
 	final public void show() {
-		System.out.println("Hi I am show method from Demo Class");
+		//System.out.println("Hi I am show method from Demo Class");
 	}
 	
 }
