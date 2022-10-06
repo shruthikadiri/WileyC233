@@ -2,7 +2,7 @@ package com.sujata.demo;
 
 public class AgeCheckedException extends Exception {
 
-	public AgeCheckedException(String message) {
+AgeCheckedException(String message) {
 		super(message);
 	}
 }
